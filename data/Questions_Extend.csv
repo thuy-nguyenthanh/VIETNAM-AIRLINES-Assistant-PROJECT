@@ -1,0 +1,700 @@
+﻿1|Trọng lượng và kích thước tối đa của hàng khi chuyển phát nhanh là bao nhiêu
+1|Chuyển phát nhanh thì tối đa bao nhiêu kilogram
+1|Hàng chuyển phát nhanh có trọng lượng tối đa bao nhiêu ký
+1|Kích thước kiện hàng chuyển phát nhanh là bao nhiêu
+1|Kích thước mỗi kiện hàng chuyển phát nhanh là bao nhiêu
+1|kiện hàng gửi đi to chừng nào
+1|kiện hàng chuyển phát to chừng nào
+1|kiện hàng chuyển phát to cỡ nào
+1|hàng chuyển phát nhanh to thế nào
+1|hàng chuyển nhanh to thế nào
+1|hàng tôi nặng hơn 10 ký chuyển phát nhanh được không
+1|dưới 20 kg có nhận chuyển phát nhanh không
+1|tôi muốn chuyển phát nhanh thùng hàng tầm 15 kg có được không
+1|thùng hàng cao tầm 70 cm có gửi chuyển phát nhanh được không
+1|bề ngang thùng hàng tầm 50 cm có gửi phát nhanh được không
+1|thùng hàng nặng với cao bao nhiêu là gửi được
+1|Có giới hạn trọng lượng của gói hàng khi chuyển phát nhanh không
+1|Có giới hạn kích thước thùng hàng khi chuyển phát nhanh không
+1|Có hạn chế trọng lượng với kích thước của hàng không
+1|Kiện hàng nặng với cao bao nhiêu thì không nhận
+2|Cần giấy tờ gì khi gửi hàng nhạy cảm
+2|Khi gửi hàng nhạy cảm, tôi có cần khai báo gì không
+2|yêu cầu tài liệu gì khi gửi hàng nhạy cảm
+2|hàng giới hạn cần gì
+2|hàng đặc biệt cần gì
+2|tôi có gói hàng nhạy cảm muốn gửi đi thì cần thủ tục gì không
+2|hàng nguy hiểm tôi muốn gửi đi thì cần thủ tục gì không
+2|tôi có cần làm thủ tục gì để gửi hàng nhạy cảm hay không
+2|có cần giấy tờ gì để gửi hàng nhạy cảm hay không vậy
+2|gửi hàng nguy hiểm thì có cần khai báo gì thêm không
+2|thùng hàng vừa nhạy cảm, vừa hàng nguy hiểm thì có cần khi báo gì không
+2|có cần lập tờ khai gì khi gửi hàng không
+2|để chấp nhận vận chuyển hàng nhạy cảm thì tôi cần làm thủ tục gì
+2|những tài liệu gì cần phải có khi gửi hàng
+2|khi gửi hàng, tôi có cần phải khai báo giấy tờ chi không
+2|hàng nguy hiểm thì cần làm giấy tờ khai báo chi không
+2|thủ tục để gửi hàng nguy hiểm là gì
+2|có những thủ tục gì khi gửi hàng nguy hiểm
+2|có những thủ tục gì khi gửi hàng vừa nhạy cảm, vừa nguy hiểm
+2|hàng nhạy cảm thì cần phải lập hồ sơ gì không
+3|Tôi có thể gửi hành lý vận chuyển theo đường hàng hóa như thế nào
+3|Gửi hành lý theo đường hàng hóa thế nào
+3|thủ tục để gửi hành lý theo đường hàng hóa
+3|làm sao để gửi hành lý ký gửi
+3|tôi muốn gửi hành lý vận chuyển theo đường hàng hóa có được không
+3|làm sao để gửi hàng theo đường hàng hóa
+3|tôi gửi thùng hàng theo đường hàng hóa thì phải làm sao
+3|tôi cần hướng dẫn các thủ tục để gửi hành lý theo đường hàng hóa
+3|Để gửi hành lý theo đường hàng hóa thì cần những thủ tục gì
+3|Các thủ tục để gửi hành lý theo đường hàng hóa là như thế nào
+3|hành lý vận chuyển theo đường hàng hóa có cần thủ tục chi không
+3|vận chuyển hành lý có cần thủ tục gì không
+3|tôi cần hỗ trợ để gửi hành lý theo đường hàng hóa
+3|Hành lý được vận chuyển theo đường hàng hóa có quy định gì không
+3|làm gì để gửi hành lý qua đường hàng hóa
+3|hãng có hổ trợ khách hàng thủ tục gửi hành lý theo đường hàng hóa không
+3|có cần thủ tục gì để gửi hành lý theo đường hàng hóa không vậy
+3|tôi muốn gửi thùng hàng theo đường hàng hóa
+3|anh chị có thể giúp tôi cách để gửi hành lý theo đường hàng hóa không
+3|để vận chuyển hành lý thì tôi làm sao
+4|Tôi muốn chuyển phát nhanh động vật nuôi trong nhà
+4|có chấp nhận vận chuyển hàng chuyển phát nhanh là hàng động vật sống không
+4|con vật chuyển phát nhanh được không
+4|thú vật chuyển phát nhanh được không
+4|chuyển phát nhanh con vật được không
+4|tôi muốn vận chuyển chó qua đường hàng không có được không
+4|Hãng có nhận chuyển phát nhanh mèo, chó hay không vậy
+4|Có nhận chuyển phát nhanh động vật nuôi không
+4|Những hàng nào có thể chuyển phát nhanh
+4|Tôi có gói hàng dễ hỏng, tôi muốn chuyển phát nhanh có được không
+4|Hàng thông thường có chuyển phát nhanh được không
+4|Hàng nguy hiểm có chuyển phát nhanh được không
+4|Hàng nhạy cảm có chuyển phát nhanh được không
+4|Hãng có vận chuyển hàng phát nhanh không vậy
+4|Tôi muốn gửi chim cá cảnh qua đường hàng không có được không
+4|Những động vật nào có thể gửi theo đường chuyển phát nhanh
+4|loại hàng hóa nào có thể gửi theo đường chuyển phát nhanh
+4|hàng chuyển phát nhanh có quy định gì về loại hàng hay không
+4|Có quy định gì về hành hóa chuyển phát nhanh hay không
+4|Hàng hóa đặc biệt, hãng có nhận chuyển phát nhanh không
+5|Gửi các gói hàng có tính nguy hiểm đến các sân bay thì có được không
+5|Tôi muốn gửi hành lý có vật dụng nguy hiểm
+5|Có chấp nhận vận chuyển hàng nguy hiểm đến tất cả các điểm đến không
+5|chuyển hàng nguy hiểm đến nơi nào cũng được à
+5|chuyển hàng nguy hiểm đến mọi điểm đều được à
+5|Tôi muốn chuyển hàng nguy hiểm ra nước ngoài được không
+5|gửi hàng hóa có tính nguy hiểm đến các sân bay thì có được không
+5|hàng có tính nguy hiểm, hãng có thể vận chuyển đến các địa phương nào
+5|hãng có nhận vận chuyển hàng có tính nguy hiểm không
+5|hãng có nhận vận chuyển tất cả các loại hàng hóa đi đến các sân bay trên thế giới không
+5|hành lý của tôi có vật dụng nguy hiểm thì có vận chuyển không
+5|sân bay nào chấp nhận hàng nguy hiểm
+5|có phải tất cả điểm đến đều chấp nhận hàng nguy hiểm hay không
+5|Tôi có đồ vật có tính nguy hiểm thì hãng có thể vận chuyển được không
+5|hàng nguy hiểm có thể chuyển đến mọi địa điểm không
+5|Có phải tất cả các điểm đến hãng đều chấp nhận vận chuyển à
+5|Tôi có thùng hàng nguy hiểm, tôi muốn chuyển đến nhiều địa điểm đến có được không
+5|Tôi muốn mang theo túi sách có hàng nguy hiểm đến nhiều địa điểm có được không
+5|Tôi muốn gửi gói hàng có vật dụng nguy hiểm
+5|Hàng hóa có đồ vật nguy hiểm thì có thể chuyển đến bất kỳ điểm đến nào à
+6|Để nhiệt độ là bao nhiêu cho các mặt hàng mau hỏng
+6|Duy trì nhiệt độ bao nhiêu trên tàu bay cho hàng mau hỏng
+6|nhiệt độ cho hàng dễ hư là bao nhiêu
+6|nhiệt độ cho hàng dễ hỏng là bao nhiêu
+6|Có nhiệt độ cố định cho hàng hóa không
+6|Mình có hàng mau hỏng cần nhiệt độ thấp ổn định thì có vận chuyển được không
+6|trên tàu bay có nhiệt độ là bao nhiêu cho các mặt hàng mau hỏng
+6|tôi mang theo mặt hàng dễ hỏng, trên tàu bay để nhiệt độ bao nhiêu vậy
+6|trên máy bay có nhiệt độ cố định cho hàng hóa không
+6|nhiệt độ cố định cho hàng hóa trên tàu bay là bao nhiêu
+6|tôi muốn mang theo hàng đông lạnh, xin hỏi là nhiệt độ trên tàu bay là bao nhiêu
+6|tôi chuyển hàng đông lạnh nên cần nhiệt độ ổn định, nhiệt độ trên tàu bay là bao nhiêu
+6|tôi muốn chuyển thùng hàng nhưng cần nhiệt độ cố định thì hãng có nhận không
+6|nhiệt độ cố định cho hàng hóa là bao nhiêu
+6|gói hàng của tôi cần nhiệt độ ổn định, vậy hãng có nhận chuyển không
+6|Hàng hóa cần nhiệt độ cố định thì có mang lên tàu bay được không
+6|Nhiệt độ ổn định cho hàng hóa trên tàu bay là bao nhiêu
+6|Tôi cần nhiệt độ ổn định cho thùng hàng
+6|hàng đông lạnh cần nhiệt độ ổn định, có vận chuyển trên tàu bay không
+6|cá đông lạnh cần nhiệt độ cố định, vậy có vận chuyển trên tàu bay không
+7|Có thể vận chuyển hàng nguy hiểm trên tất cả các tàu bay không
+7|Tôi muốn gửi hành lý có vật dụng nguy hiểm
+7|Hàng nào bị cấm mang lên tàu bay
+7|Hàng nào bị cấm để trong đồ ký gửi
+7|tất cả máy bay đều có thể chuyển hàng nguy hiểm hay không
+7|Có phải mọi chuyến bay đều chấp nhận hàng nguy hiểm
+7|mọi chuyến bay đều nhận vận chuyển hàng nguy hiểm à
+7|có phải mọi tàu bay của hãng đều vận chuyển hàng nguy hiểm
+7|tất cả tàu bay của hãng đều nhận hàng nguy hiểm có đúng không
+7|mọi chuyến bay của hãng đều nhận hàng nguy hiểm à
+7|hàng nguy hiểm được vận chuyển trên tất cả các tàu bay có đúng không
+7|tôi muốn gửi hàng nguy hiểm trên chuyến bay nào cũng được à
+7|chuyến bay nào cũng nhận hàng nguy hiểm à
+7|gói hàng có chứa một số vật dụng nguy hiểm thì có thể vận chuyển trên chuyến bay nào cũng được à
+7|có phải mọi chuyến bay đều nhận gói hàng có chứa một số vật dụng nguy hiểm à
+7|hành lý có vật dụng nguy hiểm thì đi chuyến nào cũng được phải không
+7|có phải tất cả các máy bay của hãng đều nhận vận chuyển hàng hóa nguy hiểm
+7|có phải tất cả các máy bay đều nhận hàng có vật dụng nguy hiểm
+7|máy bay nào cũng chở hàng nguy hiểm đúng không
+7|tư trang có vật dụng nguy hiểm thì tôi có thể đi ở mọi chuyến bay đúng không
+8|Chấp nhận vận chuyển những loại hàng nguy hiểm nào
+8|Những loại hàng nguy hiểm nào có thể mang theo
+8|Giới hạn chấp nhận hàng nguy hiểm
+8|chuyển được loại hàng nguy hiểm nào
+8|chịu chuyển loại hàng nguy hiểm nào
+8|những loại hàng nguy hiểm nào có thể được chấp nhận vận chuyển
+8|hãng cho phép vận chuyển những hàng nguy hiểm nào
+8|hãng chấp nhận vận chuyển loại hàng nguy hiểm nào
+8|Bấm móng tay có mang lên máy bay được không
+8|Dao kéo có mang theo lên máy bay không
+8|Súng đồ chơi có mang theo lên máy bay không
+8|Kim may đồ có mang theo lên máy bay không
+8|hàng hóa nào bị giới hạn vận chuyển
+8|có phải mọi loại hàng hóa đều có thể mang lên máy bay
+8|có giới hạn vận chuyển cho loại hàng hóa nào không
+8|tôi có thể mang súng đồ chơi lên máy bay không
+8|chất dễ cháy thì hãng có nhận vận chuyển hay không
+8|chất nổ có mang lên máy bay được không
+8|hàng hóa dễ cháy để trong túi sách thì có đưa lên máy bay được không
+8|hóa chất có đưa lên máy bay được không
+9|Loại hành lý nào không được gửi theo đường hàng hóa
+9|Gửi tiền dưới dạng hàng lý theo đường hàng hóa có được không
+9|Tôi để tiền trong hành lý
+9|Nước hoa có mang lên máy bay
+9|Tôi có thể cầm máy ảnh lên tàu bay
+9|Tôi mang theo đồng hồ lên máy bay
+9|loại nào không được gửi bằng đường hàng hóa
+9|loại hàng nào không được gửi bằng đường hàng hóa
+9|Những thứ nào không cho phép gửi theo đường hàng hóa
+9|Loại hành lý nào không nhận vận chuyển theo đường hàng hóa
+9|Loại hành lý nào có thể vận chuyển theo đường hàng hóa
+9|Thiết bị máy tính có gửi theo đường hàng hóa không
+9|Tiền tôi có thể để trong thùng hàng rồi chuyển theo đường hàng hóa được không
+9|Tôi để đồ trang sức trong hàng gửi theo đường hàng hóa thì có làm sao không
+9|Đồng hồ có gửi theo đường hàng hóa được không
+9|Máy ảnh có gửi theo đường hàng hóa được không
+9|Tôi có vài chai rượu muốn gửi theo đường hàng hóa được không
+9|Đường hàng hóa có thể nhận vận chuyển những loại hàng nào
+9|Các tài sản có giá trị có thể theo đường hàng hóa có được không
+9|Hàng dễ vỡ có thể theo đường hàng hóa có được không
+10|Hàng hóa có chứa nguyên liệu nguy hiểm có được chấp nhận vận chuyển không
+10|Hãng có vận chuyển hàng nguy hiểm không
+10|Tôi mang hàng nguy hiểm lên máy bay có được không
+10|Có vận chuyển hàng có nguyên liệu nguy hiểm không
+10|Nguyên liệu nguy hiểm có vận chuyển không
+10|Những loại hàng hóa nào không được chấp nhận vận chuyển
+10|Hãng không được chấp nhận vận chuyển những loại hàng hóa nào
+10|Nguyên vật liệu nguy hiểm có thể vận chuyển bằng đường hàng không hay không
+10|Tôi muốn gửi một số hóa chất là nguyên liệu sản xuất thì có được không
+10|Những hàng hóa bị cấm vận chuyển
+10|Trên máy bay cấm vận chuyển những hàng hóa nào
+10|Hàng nguy hiểm được chấp nhận vận chuyển trên các chuyến bay
+10|Hàng có chứa nguyên liệu nguy hiểm có thể xách tay lên máy bay không
+10|Nguyên vật liệu dễ cháy có xách tay được không
+10|Nguyên vật liệu dễ nỗ có xách tay được không
+10|Vật liệu hóa chất có thể gửi theo đường hàng hóa không
+10|Tôi có một kiện hàng chứa chất dễ cháy thì có vận chuyển được không
+10|Có vận chuyển chất khí hóa lỏng không
+10|Có nhận hàng hóa là các vật liệu dễ cháy hay không
+10|Những hàng được sản xuất bởi các nguyên liệu nguy hiểm thì có thể gửi được không
+11|Có cung cấp kho mát cho hàng mau hỏng không
+11|Hàng dễ hỏng cần chế độ làm mát có mang theo được không
+11|Bên hãng có kho làm mát hay không
+11|Có kho lạnh để trữ hàng hay không
+11|Hàng dễ hỏng thì có lưu trong kho hàng được không
+11|có kho lạnh cho hàng dễ hỏng không
+11|có kho lạnh cho hàng mau hư không
+11|Mình muốn vận chuyển hàng đông lạnh, vậy có kho mát để lưu hàng không
+11|Bên mình có kho lạnh để lưu hàng hóa không
+11|Hãng có kho mát để lưu hàng trong khi chờ trung chuyển chuyến bay không
+11|Ở Đà Nẵng có kho mát để lưu trữ hàng đông lạnh không
+11|Mình cần chuyển kiện hàng đông lạnh đi Hà Nội, ở Đà Nẵng có kho lạnh để lưu hàng không
+11|Những sân bay nào có kho mát, kho lạnh
+11|Mình có ít hàng cần bảo quản trong nhiệt độ thấp, bên hãng có kho mát không
+11|Nếu chuyến bay bị delay thì hàng dễ hỏng sẽ lưu trữ thế nào
+11|Hàng dễ hỏng sẽ lưu trữ thế nào khi chuyến bay bị delay
+11|Có kho làm mát để lưu hàng khi chuyến bay bị trễ hay không
+11|Khi chuyến bay bị trễ thì có kho mát để lưu hàng hay không
+11|Sân bay nào ở Việt Nam có kho trữ hàng dễ hỏng cần giữ mát
+11|có kho trữ hàng dễ hỏng cần giữ mát hay không
+12|Có chấp nhận hàng nhạy cảm trong lô hàng gom không
+12|Tôi muốn gửi hành lý có hàng nhạy cảm vào hàng gom được không
+12|Hàng gom có thể có hàng nhạy cảm hay không
+12|Mình để hàng nhạy cảm vào lô hàng gom được không
+12|Trong hàng nhạy cảm trong hành lý, có thể đặt trong lô hàng gom hay không
+12|hàng nhạy cảm để trong hàng chung được không
+12|hàng nhạy cảm đặt chung với hàng khác không
+12|hàng nhạy cảm có để cùng các hàng khác được không
+12|trong lô hàng gom có chấp nhận hàng nhạy cảm hay không
+12|tôi có thể gửi súng đồ chơi vào lô hàng gom không
+12|tôi có thể gửi chất dễ cháy vào lô hàng gom không
+12|tôi có thể gửi chất dễ nổ vào lô hàng gom không
+12|Loại hàng nào không thể gửi theo lô hàng gom
+12|Dược phẩm có thể gửi trong lô hàng gom không
+12|vàng có thể để chung theo lô hàng gom không
+12|đồ điện tử có thể vận chuyển chung với hàng gom không
+12|hàng ướp bằng đá khô có thể vận chuyển chung với hàng gom không
+12|tiền mặt đã được đóng gói, có thể để lẫn vào lô hàng gom không
+12|toàn bộ lô hàng gom là hàng nhạy cảm thì có vận chuyển không
+12|Có nhận vận chuyển toàn bộ lô hàng gom là hàng nhạy cảm hay không
+13|Có vận chuyển hàng nhạy cảm trên tất cả các tàu bay không
+13|Tôi muốn vận chuyển hành lý có chứa hàng nhạy cảm thì nên đi máy bay nào
+13|Mọi máy bay đều chuyển được hàng nhạy cảm không
+13|Chuyến bay nào có vận chuyển hàng nhạy cảm
+13|Hàng nhạy cảm có trong hành lý thì nên đi máy bay nào
+13|Có phải trên tất cả các tàu bay đều vận chuyển hàng nhạy cảm không
+13|Hàng nhạy cảm chỉ được chấp nhận trên những chuyến bay nào
+13|Những chuyến bay nào chấp nhận hàng nhạy cảm
+13|Hàng ướp bằng đá khô có chấp nhận vận chuyển không
+13|Những chuyến bay nào có thể chở quan tài
+13|Những chuyến bay nào có thể chở hàng dễ cháy
+13|Hàng dễ cháy có thể vận chuyển trên những chuyến bay nào
+13|Hàng dễ nổ có thể vận chuyển trên những chuyến bay nào
+13|Vũ khí có thể vận chuyển trên các chuyến bay hay không
+13|Tôi muốn vận chuyển nguyên vật liệu hóa chất trên tất cả các chuyến bay không
+13|Có phải tất cả các chuyến bay đều có thể vận chuyển nguyên vật liệu hóa chất
+13|Những chuyến bay nào có nhận hàng dễ cháy nổ
+13|Những chuyến bay nào có nhận hàng dễ nổ
+13|Động vật sống có thể vận chuyển trên tất cả các chuyến bay hay không
+13|Thực phẩm, hoa tươi có thể vận chuyển trên chuyến bay nào
+14|Hàng quá khổ và hàng nặng là những loại hàng nào
+14|Hành lý vượt quá mức bao nhiêu thì có thể xách tay
+14|thế nào là hàng nặng
+14|hàng nặng gồm các loại nào
+14|kích cỡ, hình dạng hoặc trọng lượng như thế nào là hàng quá khổ
+14|hàng có kích thước không xếp gọn được có vận chuyển không
+14|hàng nặng trên 150 ký có cho là hàng quá khổ không
+14|hàng ký hiệu ohg là gì
+14|hàng ký hiệu hea là gì
+14|hàng ký hiệu big là gì
+14|Hàng quá khổ là những loại hàng nào
+14|Hàng nặng là những loại hàng nào
+14|Những loại hàng hóa nào được cho là quá khổ
+14|Loại hàng hóa như thế nào được cho là hàng nặng
+14|Hàng hóa không xếp gọn có thể được xem là hàng quá khổ hay không
+14|hàng có trọng lượng từ 150 kg trở lên có bị cho là hàng nặng hay không
+14|Hàng có trọng lượng quá bao nhiêu ký thì cho là hàng nặng
+14|Gói hàng 10 kg thì có phải là hàng nặng hay không
+14|kích cỡ, hình dạng hàng hóa như thế nào là quá khổ
+14|hàng hóa có kích cỡ, hình dạng, trọng lượng như thế nào là quá khổ, hàng nặng
+15|Tôi có thể gửi hành lý theo đường hàng hóa theo hành trình khác với hành trình ghi trên vé được không
+15|Tôi gửi hành lý theo lộ trình không giống vé của tôi thì có được không
+15|gửi hành lý theo đường khác đường trên vé được không
+15|tôi không lên máy bay nhưng tôi có thể gửi hàng ký gửi được không
+15|Có khi nào lô hàng được giao muộn hơn ngày hành khách khởi hành không
+15|tôi đi đến thành phố A nhưng gửi hàng ký gửi đến thành phố B có được không
+15|hành lý được gửi theo đường hàng hóa có hành trình khác với hành trình ghi trên vé của tôi có được không
+15|Tôi muốn gửi hành lý có hành trình khác với trên vé của tôi có được không
+15|Vé tôi đi Hà Nội nhưng hành lý gửi theo đường hàng hóa được gửi về Sài Gòn có được không
+15|Tôi muốn gửi hành lý theo đường hàng hóa nhưng khác với hành trình ghi trên vé có được không
+15|Gửi hành lý đi có hành trình khác với hành trình ghi trên vé của hành khách có được không
+15|Đường hàng hóa có nhận hành lý có hành trình khác với chuyến bay hay không
+15|Có yêu cầu hành lý phải có hành trình trùng với vé của hành khách không
+15|Có yêu cầu hành trình của hành lý phải khớp với vé của hành khách không
+15|Tôi có thể gửi hành lý theo hành trình khác với trên vé của tôi có được không
+15|Hành trình ghi trên vé có thể khác với hành trình của hành lý được gửi theo đường hàng hóa
+15|Nơi đến ghi trên vé của tôi có thể khác với nơi đến của hành lý được gửi hay không
+15|Hành khách có thể đi một nơi và hành lý được gửi đến một nơi khác không
+15|hành trình được ghi trên vé của tôi khác với hành trình của hành lý tôi mang theo có được không
+15|Khi gửi hành lý theo đường hàng hóa, hãng có bắt buộc tôi phải trình vé hay không
+16|Tôi có thể sử dụng bao nhiêu đá khô để đóng gói lô hàng của mình trên chuyến bay
+16|Đá khô tôi được mang đi tối đa là bao nhiêu
+16|Tôi đóng gói hàng mau hỏng với đá khô có được không
+16|tổng đá khô trên các khoang là bao nhiêu
+16|giới hạn lượng đá khô cho lô hàng là bao nhiêu
+16|sử dụng tối đa bao nhiêu ký đá khô để đóng gói lô hàng
+16|để đóng gói lô hàng thì tôi được phép sử dụng tối đa bao nhiêu kg đá khô
+16|giới hạn lượng đá khô dùng để đóng gói hàng là bao nhiêu
+16|Có giới hạn khối lượng đá khô dùng để đóng gói hàng không
+16|Tôi sử dụng nhiều đá khô để đóng gói hàng thì có bị cấm hay không
+16|Tôi mang theo hàng đông lạnh nên cần đá khô để đóng gói, vậy có quy định gì về cái này không
+16|Có quy định gì về việc sử dụng đá khôi để đóng hàng đông lạnh hay không
+16|Tôi dùng đá khô để trữ hàng thủy sản khi mang lên máy bay có được không
+16|Lô hàng tôi có dùng đá khô để trữ hàng thủy sản, có quy định nào về điều này không
+16|Có quy định cụ thể về khối lượng đá khô sử dụng khi đóng gói hàng dễ hỏng không
+16|Có quy định gì về việc vận chuyển khối lượng lớn hàng mau hỏng hay không
+16|Có quy định gì về việc dùng đá khô để đóng số lượng lớn hàng mau hỏng hay không
+16|Trên tàu bay có giới hạn gì về lượng đá khô khi vận chuyển hay không
+16|có giới hạn gì về lượng đá khô khi vận chuyển hay không 
+16|Tôi có thể dùng tối đa bao nhiêu ký đá khô khi đóng gói hàng dễ hỏng
+17|có vận chuyển hàng nặng hay hàng quá khổ không
+17|Hàng nặng thì chuyển thế nào
+17|Hàng quá khổ thì vận chuyển thế nào
+17|nhận hàng quá to không
+17|hàng quá cỡ nhận không
+17|hàng quá kích thước nhận không
+17|Có quy định gì khi vận chuyển hàng nặng hay không
+17|Hãng có vận chuyển hàng quá khổ hay không
+17|Thủ tục cần thiết để gửi được hàng quá khổ
+17|Thủ tục cần thiết để gửi được hàng nặng trên các chuyến bay
+17|Hàng quá khổ có thể được vận chuyển hay không
+17|Hàng quá tải có thể được vận chuyển hay không
+17|Tôi phải làm những thủ tục gì để vận chuyển hàng quá khổ
+17|Tôi phải làm những thủ tục gì để vận chuyển hàng nặng
+17|Hàng quá tải có thể được vận chuyển không
+17|Hàng hóa cồng kềnh có thể gửi trên máy bay hay không
+17|Tôi có thể gửi hành lý cồng kềnh không
+17|Tôi muốn gửi hàng hóa quá khổ thì phải làm thủ tục gì
+17|Tôi muốn gửi hàng có trọng lượng lớn thì phải làm thủ tục gì
+17|Tôi muốn gửi hàng có kích thước lớn thì phải làm sao
+18|có thể duy trì nhiệt độ âm trên tàu bay được không
+18|Máy bay có để nhiệt độ âm hay không
+18|máy bay duy trì nhiệt độ dưới 0 độ được không
+18|Trên máy bay có lạnh dưới 0 độ không
+18|Trên máy bay có để nhiệt độ âm không
+18|Tôi có thể sử dụng khí hóa lỏng làm lạnh để đóng gói hàng hóa hay không
+18|Tôi có thể sử dụng đá ướt để đóng gói hàng đông lạnh hay không
+18|Tôi có thể sử dụng đá khô để đóng gói hàng hóa hay không
+18|Nhiệt độ trên máy bay có thể hạ thấp xuống âm độ hay không
+18|Tôi mang theo hàng cần phải bảo quản ở nhiệt độ thấp có được không
+18|Trên tàu bay có để ở nhiệt độ âm không
+18|hàng thủy sản nhưng chưa được ướp lạnh thì có mang lên máy bay được không
+18|Tôi muốn mang theo tôm tươi nhưng không dùng các biện pháp trữ lạnh có được không
+18|Cá đông lạnh có thể vận chuyển trên khoang máy bay hay không
+18|Tôi bị ốm nên nhiệt độ âm tôi sẽ bị phát bệnh, vậy tôi có đi máy bay được không
+18|Hàng đông lạnh muốn vận chuyển trên máy bay thì phải làm sao
+18|Nhiệt độ âm trên tàu bay thấp nhất là bao nhiêu
+18|Trên tàu bay có để nhiệt độ lạnh, dưới 0 độ hay không
+18|hàng hóa cần đông lạnh thì phải làm sao
+18|Tôi phải làm sao để mang theo hàng đông lạnh
+19|bay trực tiếp đến những điểm nào
+19|máy bay có thể bay thẳng đến đâu
+19|bay thẳng đến được những nơi nào
+19|Có bay trực tiếp đến châu âu hay không
+19|Có bay trực tiếp đến châu á hay không
+19|Có bay trực tiếp đến châu úc hay không
+19|Có bay thẳng đến tất cả các sân bay nội địa của việt nam không
+19|các sân bay nội địa của việt nam có chuyến bay thẳng đến không
+19|các sân bay nội địa của việt nam có chuyến nào phải trung chuyển hay không
+19|Các chuyến bay của hãng có bay trực tiếp đến các châu lục hay không
+19|Khu vực nào trên thế giới có chuyến bay trực tiếp
+19|Thành phố nào ở Việt Nam có chuyến bay trực tiếp
+19|Những điểm nào mà hãng có chuyến bay trực tiếp
+19|Những sân bay ở địa phương nào mà hãng không bay trực tiếp đến
+19|Ở Châu Âu, hãng có bay trực tiếp đến hay không
+19|Ở Châu Á, hãng có bay trực tiếp đến hay không
+19|Ở Châu Úc, hãng có bay trực tiếp đến hay không
+19|Tôi muốn đi Nha Trang thì có chuyến bay nào bay trực tiếp hay không
+19|Việt Nam đi các nước Châu Âu, có chuyến bay nào bay thẳng hay không
+19|Có chuyến bay nào bay trực tiếp từ Việt Nam đi các nước Châu Úc hay không 
+20|Có giống chó nào không được vận chuyển trên chuyến bay dưới dạng hàng hóa
+20|Có giống chó nào tôi không gửi được hay không
+20|Hàng hóa của tôi có chứa động vật như là chó có được không
+20|Tôi muốn gửi chó qua đường hàng hóa
+20|Tôi đưa chó lên máy bay theo đường hàng hóa
+20|Chó hung dữ bị cấm vận chuyển không
+20|Tôi có thể mang lên máy bay các giống chó hung dữ hay không
+20|Tôi có thể đưa giống chó bulldog theo không
+20|Tôi có thể đưa chó terrier theo lên tàu bay không
+20|Tôi có thể đưa giống chó boxer theo lên tàu bay không
+20|Tôi có thể đưa chó pug theo hay không
+20|Hãng có nhận vận chuyển giống chó pug không
+20|Hãng có nhận vận chuyển các giống chó hung dữ không
+20|Tôi muốn gửi dưới dạng hàng hóa một vài con chó có được không
+20|Mình muốn gửi chó theo đường hàng hóa có được không
+20|Những dòng chó nào bị cấm vận chuyển
+20|Giống chó nào không nhận vận chuyển
+20|Chó bẹc rê có thể gửi trên máy bay theo đường hàng hóa được không
+20|Hãng cấm vận chuyển những giống chó nào
+20|Chó có mang được lên máy bay không
+21|sử dụng sân bay nào là sân bay trung tâm cho vận chuyển mặt đất
+21|Sân bay trung tâm cho vận chuyển mặt đất là sân bay nào
+21|Sân bay trung tâm nằm ở đâu vậy
+21|sân bay chính cho vận chuyển dưới đất là nơi nào
+21|sân bay chính cho vận chuyển dưới mặt đất là vị trí nào
+21|sân bay chính để vận chuyển mặt đất là
+21|Mạng vận chuyển mặt đất của hãng bao gồm các điểm đến xuất phát từ đâu
+21|Mạng vận chuyển mặt đất chính bao gồm các điểm đến ở đâu
+21|Sân bay chính của hãng tại Châu Âu là những sân bay nào
+21|Những sân bay nào tại Châu Âu là sân bay chính của hãng
+21|Sân bay chính của hãng tại Úc là những sân bay nào
+21|Những sân bay nào tại Nhật bản là sân bay chính của hãng
+21|Sân bay fukuoka tại Nhật có phải là sân bay chính không
+21|Frankfurt có phải là sân bay trung tâm của hãng hay không
+21|Tại các thành phố lớn nào tại Nhật bản có sân bay trung tâm của hãng
+21|Cho biết danh sách các sân bay trung tâm tại Úc
+21|Tại Châu Âu, hãng có những sân bay trung tâm nào
+21|Tôi muốn bay từ Nhật về Việt Nam, xin hỏi có sân bay osaka có phải là sân bay trung tâm hay không
+21|Osaka có phải là sân bay trung tâm hay không
+21|Các điểm đến xuất phát chính từ đâu trong mạng vận chuyển mặt đất của hãng
+22|Làm thế nào để gửi hàng đến những điểm mà vienam airlines không có đường bay
+22|Những nơi máy bay không bay tới thì tôi có gửi hàng được không
+22|gửi hàng đến nơi không có đường bay
+22|có dịch vụ vận chuyển bằng xe tải không
+22|Bên Nhật có dịch vụ vận chuyển hàng hóa nào khác không
+22|Có dịch vụ vận chuyển bằng xe tải từ campuchia về việt nam không
+22|Những điểm mà hãng không có đường bay thì làm sao để gửi hàng đến đó
+22|Tôi muốn gửi hàng đi Lào nhưng hãng không có đường bay thì làm sao
+22|Tôi có lô hàng cần chuyển sang Nhật, nhưng tại địa phương đó không có đường bay thẳng thì làm sao
+22|Những địa phương không có đường bay thẳng thì làm sao để gửi hàng đến đó được
+22|Mình có dịch vụ trung chuyển hàng bằng xe tải không
+22|Hàng gửi đi từ Đà Nẵng đến Đồng Nai, nhưng không có chuyến bay thẳng đến Đồng Nai thì làm sao
+22|Có dịch vụ trung chuyển hàng hóa bằng xe tải không
+22|Tôi cần xe tải để trung chuyển hàng từ Đồng Nai về Sài Gòn có được không
+22|Ở Đồng Nai không có đường bay đến thì làm sao có thể gửi hàng đến đó
+22|Tôi muốn gửi hàng đến những thành phố không có đường bay thẳng thì làm sao
+22|Những thành phố không có đường bay thẳng thì tôi có thể gửi hàng đến đó không
+22|Ở Châu Âu có dịch vụ vận chuyển bằng xe tải hay không
+22|Tôi muốn gửi một kiện hàng đi Úc, nhưng ở thành phố đó không có sân bay thì làm sao
+22|Tôi đang ở thành phố Osaka Nhật, tôi muốn gửi hàng về Việt Nam nhưng ở đây không có chuyến bay thẳng
+23|Có yêu cầu đặc biệt gì đối với việc vận chuyển ống không
+23|Cho tôi xin thông tin về vận chuyển ống
+23|yêu cầu đặc biệt đối với vận chuyển bằng đường ống
+23|vận chuyển ống với số lượng lớn có được không
+23|hàng hóa dạng ống có cần đóng gói không
+23|các ống nước có cần đóng kiện không
+23|vận chuyển ống có cần phải đóng thành từng kiện không
+23|Có quy định gì đối với việc vận chuyển ống hay không
+23|Tôi có một lô hàng gồm nhiều ống nước, có kích thước lớn thì có vận chuyển được không
+23|Có nhận vận chuyển lô hàng gồm nhiều ống nước, có kích thước lớn hay không
+23|Các ống kim loại, tôi có cần phải đóng thành kiện hay không
+23|Có cần phải dùng dây cứng để buộc các kiện hàng gồm các ống nước không
+23|Có nhận vận chuyển số lượng nhiều các vật tư xây dựng hình ống hay không
+23|Người gửi có cần phải đóng ống thành từng kiện đối với hàng hóa có hình ống hay không
+23|Đối với hàng hóa có hình ống, tôi có cần phải cột các ống thành bó hay không
+23|Các ống tiếp nước, tôi có cần phải cột thành từng kiện rời không
+23|Có cần phải đóng gói hàng hóa có hình dạng ống hay không
+23|Tầm 100 ống nước, dài dưới 10m thì có vận chuyển không
+23|Tôi muốn gửi qua đường hàng hóa tầm 100 ống thép thì phải làm sao
+23|Để vận chuyển qua đường hàng hóa tầm 100 ống inox thì cần thủ tục gì không
+24|có vận chuyển hàng chuyển phát nhanh từ việt nam đến các nước khác không
+24|Tôi muốn chuyển hàng nhanh ra nước ngoài
+24|chuyển phát nhanh đến các nước khác
+24|muốn chuyển phát nhanh từ đà nẵng đi nha trang có được không
+24|có dịch vụ chuyển phát nhanh không
+24|Tôi có thể gửi hàng chuyển nhanh ra nước ngoài được không
+24|Hãng có nhận chuyển phát nhanh hàng hóa ra nước ngoài không
+24|Tôi muốn chuyển nhanh lô hàng từ Sài Gòn về Đà Nẵng có được không
+24|Hãng có nhận hàng chuyển phát nhanh từ Đà Nẵng đi Nha Trang không
+24|Hãng nhận chuyển phát nhanh đến những nơi nào
+24|Có nhận chuyển phát nhanh ra nước ngoài hay không
+24|Tôi muốn gửi hàng chuyển nhanh đi Nhật có được không
+24|Những ga hàng hóa nào mà hãng có nhận hàng chuyển phát nhanh
+24|Hãng nhận hàng chuyển phát nhanh tại những ga nào
+24|Mình muốn chuyển phát nhanh hàng từ Châu Âu về Việc Nam có được không
+24|Em có lô hàng từ Nhật cần chuyển nhanh về Đà Nẵng thì thủ tục như thế nào
+24|Anh chị có thể hướng dẫn cách gửi hàng chuyển phát nhanh từ Nha Trang về Đà Nẵng không
+24|Để gửi hàng chuyển phát nhanh từ Nha Trang về Đà Nẵng thì lệ phí bao nhiêu
+24|Lệ phí để chuyển hàng chuyển phát nhanh từ Việt Nam ra nước ngoài là bao nhiêu
+24|Chuyển phát nhanh hàng hóa từ Việt Nam ra nước ngoài thì tính phí như thế nào
+25|Có chấp nhận vận chuyển động vật sống yêu cầu một nhiệt độ cố định không
+25|Tôi muốn chuyển thú nuôi và cần nhiệt độ ổn định có được không
+25|Kho hàng có nhiệt độ ổn định không
+25|Có duy trì nhiệt độ cho kho hàng không
+25|Mình có hàng hóa cần nhiệt độ cố định không thì có vận chuyển được không
+25|Có một nhiệt độ cố định trên tàu bay để chuyển động vật sống không
+25|Tôi sợ nóng để gửi chó cảnh lên tàu bay, vậy trên đó có giữ nhiệt độ ổn định hay không
+25|Có nhiệt độ cố định để đảm bảo sức khỏe cho vật nuôi khi vận chuyển không
+25|Động vật sống cần nhiệt độ cố định thì hãng có nhận vận chuyển hay không
+25|Tôi cần vận chuyển giống mèo cảnh, trên tàu có nhiệt độ tầm 5 độ C không
+25|Trên máy bay có nhiệt độ tầm từ 5 đến 10 độ C để đảm bảo sức khỏe cho vật nuôi không
+25|Trên máy bay thường duy trì một nhiệt độ cụ thể nào đó không
+25|Tôi có mang theo hàng sách tay là chuột cảnh, trên máy bay có nhiệt độ cố định không
+25|Tôi cần duy trì nhiệt độ trên 15 độ C liên tục trên chuyến bay có được không
+25|Trong hầm hàng có nhiệt độ cụ thể là bao nhiêu
+25|Tôi có gửi hàng nhưng không biết trong hầm hàng có nhiệt độ ổn định hay không
+25|Nhiệt độ trong hầm hàng của máy bay có luôn giữ nhiệt ổn định không
+25|Trong khoang hàng hóa, tàu bay có giữ nhiệt độ cố định không
+25|Tôi cần vận chuyển động vật sống, không biết trong khoang hàng có để nhiệt độ thấp dưới 5 độ không
+25|Trong khoang hàng có để nhiệt độ thấp dưới 5 độ không
+26|Có chấp nhận vận chuyển quan tài không
+26|Có thể chuyển quan tài qua đường hàng không hay không
+26|Tôi muốn máy bay chở quan tài thì nên tham khảo điều kiện ở đâu
+26|chuyển hài cốt được không
+26|chuyển xác chết được không
+26|điều kiện để vận chuyển quan tài là gì
+26|Người chết do dịch bệnh thì có vận chuyển không
+26|Cần làm thủ tục trước bao lâu để vận chuyển quan tài nếu nguyên nhân chết do dịch bệnh
+26|Chuyển người chết do dịch bệnh không
+26|Cần làm thủ tục trước bao lâu để vận chuyển hài cốt
+26|Thủ tục để vận chuyển quan tài nếu nguyên nhân chết do dịch bệnh là gì
+26|Thủ tục để vận chuyển xác chết do dịch bệnh là gì
+26|Cần làm thủ tục trước bao lâu để vận chuyển quan tài
+26|Vận chuyển quan tài có được phép không
+26|Cần làm thủ tục trước bao lâu để vận chuyển xác chết
+26|Có chấp nhận vận chuyển quan tài nếu nguyên nhân chết do dịch bệnh không
+26|Cần làm thủ tục trước bao lâu để vận chuyển người chết do dịch bệnh
+26|Điều kiện để vận chuyển xác chết do dịch bệnh là gì
+26|Vận chuyển xác chết do dịch bệnh có được không
+26|Người chết do dịch bệnh có được mang lên máy bay không
+27|Tôi có thể sử dụng phương tiện vận chuyển nào cho lô hàng vận chuyển từ campuchia đến các điểm đến
+27|Tôi muốn chuyển hàng từ campuchia đến việt nam thì có thể dùng phương tiện nào
+27|Có xe trung chuyển từ campuchia về việt nam không
+27|Tôi muốn bay từ campuchia về việt nam có được không
+27|Từ campuchia về việt nam có chuyến bay nào không
+27|Tôi ở campuchia, muốn sử dụng dịch vụ của vietnam airlines thì làm sao
+27|Thủ tục để bay từ Campuchia về Việt nam là gì
+27|Để vận chuyển lô hàng từ Campuchia về Việt Nam, tôi có cần dùng hộ chiếu không
+27|Tôi có phải trả nhiều phí cho lô hàng vận chuyển từ Campuchia về Việt Nam không
+27|Tôi muốn biết thông tin về chi nhánh hay đại lý Vietnam airline tại Campuchia
+27|Có được vận chuyển lô hàng chất lỏng từ Campuchia về Việt Nam không
+27|Chuyến bay sớm nhất từ Campuchia về Việt nam là chuyến bay lúc mấy giờ
+27|Chuyến bay muộn nhất từ Campuchia về Việt nam là chuyến bay lúc mấy giờ
+27|Tôi có mú vé máy bay online để vận chuyển lô hàng từ Campuchia về Việt Nam hay không
+27|Thủ tục để sử dụng các chuyến bay và dịch vụ mặt đất của vietnam airline
+27|Tôi có thể nối chuyến các chuyến bay của Vietnam airline được không
+27|Phương tiện vận chuyển nào là tối ưu nhất để vận chuyển lô hàng từ Campuchia về Việt Nam
+27|Tôi có thể sử dụng dịch vụ vận chuyển mặt đất của Vietnam airline để vận chuyển hàng được không
+27|Hàng ngày có mấy chuyến bay từ Campuchia về Việt Nam
+27|Tôi có thể sử dụng phương tiện công cộng từ campuchia để vận chuyển lô hàng về Việt Nam được không
+28|có vận chuyển động vật có vú không
+28|Gửi chó qua đường máy bay có được không
+28|động vật có vú có mang lên máy bay được không
+28|lợn có vận chuyển trên máy bay không
+28|những động vật có vú nào không vận chuyển được
+28|Có vận chuyển động vật có vú có trọng lượng 50kg trở lên không
+28|Có vận chuyển lợn trên 50 ký không
+28|Có vận chuyển cá voi trên 50 ký không
+28|Vì sao không chấp nhận vận chuyển động vật có vú từ 50 ký trở lên
+28|Động vật có vú hãng có nhận vận chuyển không
+28|Tôi có thể gửi động vật có vú qua đường hàng hóa hay không
+28|Đường hàng hóa có vận chuyển được động vật có vú hay không
+28|Tôi có thể gửi mèo cảnh theo đường hàng hóa hay không
+28|Chó cảnh có mang lên máy bay được không
+28|Tôi cần vận chuyển một con cá voi, hãng có nhận không 
+28|Tôi có lô heo giống cần vận chuyển về Việc Nam theo đường hàng hóa có được không
+28|Tôi đi nước ngoài có mang theo mèo cảnh thì có được không
+28|Những động vật có vú nào hãng nhận vận chuyển
+28|Cá heo được đóng kiện gửi theo đường hàng hóa có được không
+28|Hãng có nhận vận chuyển cá heo theo đường hàng hóa không
+29|Có vận chuyển động vật sống trên tất cả các tàu bay
+29|Máy bay của hãng có vận chuyển động vật sống
+29|Động vật nào được mang lên máy bay
+29|Mình muốn mang động vật lên máy bay
+29|máy bay nào cũng có thể chuyển con vật sống
+29|Có phải trên tất cả các tàu bay của hãng có vận chuyển động vật sống phải không
+29|Động vật sống tôi có thể gửi ở mọi chuyến bay đúng không
+29|Tôi có thể gửi động vật sống ở chuyến bay nào cũng được phải không
+29|Tôi có vài con chó cảnh, tôi có thể gửi hàng hóa ở chuyến bay nào cũng được à
+29|Loài động vật nào tôi có thể mang lên máy bay
+29|Loài động vật nào tôi có thể gửi theo đường hàng hóa
+29|Những động vật nào tôi có thể vận chuyển bằng máy bay
+29|Theo đường hàng hóa, hãng có thể nhận những động vật nuôi nào
+29|Tôi có chó cảnh cần gửi theo đường hàng không có được không
+29|Hãng có nhận vận chuyển chó cảnh không
+29|Tôi có lô hàng mèo giống cần nhập từ nước ngoài về, hãng có nhận vận chuyển không
+29|Minh đi các chuyến bay trong nước thì có thể mang theo động vật sống không
+29|Chó nuôi tôi có thể mang lên các chuyến bay trong nước chứ
+29|Tôi đi nước ngoài thì có thể mang động vật sống theo có được không
+29|Tôi có thể mang động vật sống trên các chuyến bay ra nước ngoài không
+30|Có yêu cầu gì đối với vận chuyển hàng hóa có vật liệu giữ lạnh như đá khô, khí hóa lỏng làm lạnh, đá ướt
+30|Hàng hóa có những nguyên liệu giữ lạnh đi kèm thì cần yêu cầu gì không
+30|Hàng có đá ướt có thể mang lên máy bay được không
+30|yêu cầu đối với hàng có đá khô
+30|yêu cầu đặc biệt với hàng có kèm đá ướt
+30|Có quy định gì đối với hàng hóa có vật liệu giữ lạnh như đá khô không
+30|Đối với hàng hóa có vật liệu giữ lạnh như khí hóa lỏng làm lạnh thì có quy định gì không
+30|Có hướng dẫn gì đối với hàng có vật liệu giữ lạnh như đá ướt không
+30|Có yêu cầu chi đặc biệt với hàng hóa cần trữ lạnh không
+30|Có yêu cầu cụ thể gì đối với vận chuyển hàng hóa có vật liệu giữ lạnh không
+30|Hàng có vật liệu giữ lạnh thì có cần đánh dấu hàng mau hỏng hay không
+30|Lô hàng được ướp lạnh bằng đá thì có cần dán thêm nhãn gì không vậy
+30|Cá đông lạnh có cần đóng gói theo quy định nào không
+30|Có cần phải đóng gói các lô hàng hóa được ướp lạnh bằng đá khô không
+30|Có yêu cầu cụ thể nào khi đóng gói hay dán nhãn với hàng hóa đông lạnh không
+30|Hàng hóa có khí hóa lỏng làm lạnh thì có yêu cầu cụ thể khi đóng gói hay dán nhãn hay không
+30|Có yêu cầu cụ thể khi đóng gói hay dán nhãn đối với lô hàng có đá ướt làm lạnh không
+30|Trong trường hợp nào thì yêu cầu phải đóng gói hay dán nhãn cẩn thận
+30|Khi nào thì tôi phải dán nhãn và đánh dấu là hàng hóa mau hỏng
+30|Tôi có cần phải dán nhãn hàng mau hỏng đối với hàng đông lạnh không
+31|Có nhận vận chuyển khỉ hay không
+31|Khỉ có gửi qua đường hàng hóa được không
+31|Thú nuôi của tôi là khỉ thì có được vận chuyển đi cùng bằng máy bay không
+31|Có vận chuyển khỉ không
+31|Khỉ dưới 6 tuổi có mang lên máy bay được không
+31|Gửi ký gửi khỉ nuôi có được không
+31|Khỉ dùng cho mục đích thí nghiệm thì có vận chuyển không
+31|Hãng có vận chuyển khỉ dùng cho mục đích thí nghiệm không
+31|Tôi có lô hàng là khỉ cần vận chuyển từ nước ngoài về thì có vận chuyển không
+31|Hãng có vận chuyển khỉ từ nước ngoài về Việt Nam không
+31|Khỉ nuôi được tầm 3 tháng tuổi thì có mang lên máy bay được không
+31|Tôi cần nhập khẩu khỉ về cho phòng thí nghiệm thì hãng có nhận vận chuyển không
+31|Điều kiện chấp nhận hàng động vật sống như khỉ là gì
+31|Động vật như khỉ có được chấp nhận vận chuyển trên các chuyến bay hay không
+31|Các chuyến bay của hãng có chấp nhận vận chuyển động vật như khỉ không
+31|hãng có nhận vận chuyển khỉ sử dụng phòng thí nghiệm hay không
+31|Hãng có nhận vận chuyển lô hàng là khỉ từ nước ngoài hay không rứa
+31|Khỉ dưới bao nhiêu tuổi thì có thể gửi hàng hóa về Việc Nam
+31|Khi nhập khẩu khỉ từ nước ngoài về cho những mục đích gì thì có thể nhận vận chuyển
+31|Những loài khỉ nào thì tôi có thể vận chuyển bằng đường hàng không
+32|Trọng lượng tối đa của 1 kiện hàng thông thường trên các chuyến bay là bao nhiêu
+32|Hàng hóa bao nhiêu ký thì có thể đi trên chuyến bay
+32|Hàng hóa trọng lượng tối đa bao nhiêu kg là có thể đem lên máy bay
+32|kiện hàng thông thường trên máy bay nặng bao nhiêu
+32|kiện hàng thông thường trên mỗi chuyến nặng bao nhiêu
+32|Khối lượng tối đa một thùng hàng trên các chuyến bay là bao nhiêu vậy
+32|Trên các chuyến bay có giới hạn trọng lượng các thùng hàng hay không
+32|Tôi có kiện hàng 20 kg thì có thể gửi lên máy bay được không
+32|Tôi có các kiện hàng rời, thì khối lượng tối đa của các kiện là bao nhiêu là được
+32|Lô hàng của tôi trên 50 ký thì có nhận vận chuyển không
+32|Hãng có nhận vận chuyển các kiện hàng trên 50 kg hay không
+32|Có giới hạn gì về khối lượng của hàng hóa hay không
+32|Hàng hóa có bị giới hạn về trọng lượng khi gửi qua đường hàng không hay không
+32|Mỗi lô hàng khi gửi đi thông thường có giới hạn tối đa bao nhiêu ký
+32|Tôi có nhiều thùng hàng cần vận chuyển về Đà Nẵng, hãng có giới hạn gì về khối lượng không
+32|Khối lượng tối đa cho phép trên mỗi thùng hàng là bao nhiêu vậy
+32|Khi gửi hàng ra nước ngoài, hãng có giới hạn trọng lượng tối đa hay không
+32|Hàng có có bị giới hạn trọng lượng khi gửi hàng ra nước ngoài không
+32|Có quy định cụ thể gì về khối lượng hàng hóa khi vận chuyển trên các chuyến bay hay không
+32|Trên các chuyến bay có quy định cụ thể gì về cân nặng của các lô hàng hóa không
+33|Bản hướng dẫn của người gửi hàng là gì
+33|Tôi muốn gửi hàng thì bản hướng dẫn của tôi sẽ như thế nào
+33|Giấy hướng dẫn để gửi hàng là gì
+33|Tài liệu áp dụng đối với người gửi hàng là gì
+33|Tôi muốn gửi hàng thì bản hướng dẫn của tôi lấy mẫu ở đâu
+33|Tài liệu áp dụng đối với đại lý là gì
+33|Bản hướng dẫn dành cho công ty giao nhận là gì
+33|Tài liệu sli là tài liệu gì
+33|Những đối tượng nào thì cần sử dụng bản hướng dẫn sli
+33|Tài liệu áp dụng đối với các đại lý là gì
+33|Tôi muốn gửi hàng thì cần đọc bản hướng dẫn nào
+33|Đối với đại lý thì có cần bản hướng dẫn nào không
+33|Công ty tôi sử dụng mẫu sli tự thiết kế có được không
+33|Những trường hợp nào thì cần phải có bản hướng dẫn của người gửi hàng
+33|Người gửi hàng sử dụng bảng hướng dẫn để làm gì
+33|Các đại lý sử dụng bảng hướng dẫn để làm gì
+33|Các công ty giao nhận sử dụng bảng hướng dẫn để làm gì
+33|Mục đích của bản hướng dẫn sli là gì
+33|Bản hướng dẫn của người gửi hàng dùng để làm chi
+33|Bản hướng dẫn sli dùng để làm gì
+34|Có cung cấp dịch vụ vận chuyển đến tận nhà hay không
+34|Tôi muốn chuyển hàng đến tận nhà
+34|Vận chuyển hàng đến nhà riêng được không
+34|Có dịch vụ vận chuyển từ cửa đến cửa không
+34|Hãng có vận chuyển hàng về đến tận nhà không
+34|Có dịch vụ vận chuyển hàng hóa về đến nhà riêng hay không
+34|Nhà tôi ở xa sân bay, hãng có dịch vụ trung chuyển về đến nhà hay không
+34|Tôi có chuyển lô hàng lớn từ Đà Nẵng đi Hà Nội, hãng có dịch vụ trung chuyển về đến nhà không
+34|Có dịch vụ vận chuyển hàng hóa từ sân bay về đến nhà riêng không
+34|Bên mình có cung cấp dịch vụ vận chuyển từ cửa đến cửa không
+34|Bên mình có dịch vụ trung chuyển từ sân bay về đến nhà riêng hay không
+34|Tôi cần xe trung chuyển từ sân bay đến khách sạn có được không
+34|Nhà tôi ở xa sân bay, vậy bên hãng có dịch vụ từ cửa đến cửa hay không
+34|Mình có phương tiện để trung chuyển hay không
+34|Có xe để đưa đón từ khách sạn đến sân bay hay không
+34|Có phương tiện để đưa đón từ nhà riêng đến sân bay không vậy
+34|Tôi có mang hàng hóa cồng kềnh, vậy bên mình có dịch vụ vận chuyển đến nhà không
+34|Có dịch vụ trung chuyển khách từ sân bay về nhà riêng hay không
+34|Có xe đưa đón khách khi đi máy bay không
+34|Tôi muốn sử dụng dịch vụ từ cửa đến cửa của hãng thì làm sao
+35|Tôi có thể lấy nhãn nhận biết hàng hóa ở đâu cho lô hàng vận chuyển trên chuyến bay
+35|Nhãn nhận biết hàng hóa sẽ lấy ở đâu
+35|Tôi sử dụng mẫu nhãn nhận dạng hàng hóa của riêng công ty được không
+35|Tôi tự thiết kế mẫu nhãn nhận dạng hàng hóa của riêng được không
+35|Mẫu nhãn nhận dạng hàng hóa có cần dùng mẫu thống nhất không
+35|Nhãn nhận biết hàng hóa tôi có thể lấy mẫy này ở đâu
+35|Lô hàng vận chuyển trên chuyến bay có cần mẫu nhận dạng hàng hóa hay không
+35|Tôi có một lô hàng cần gửi đi, vậy tôi có thể lấy mẫu nhận dạng hàng ở đâu
+35|Tôi có thể sử dụng mẫu nhãn nhận dạng do mình tự thiết kế hay không
+35|Sử dụng nhãn nhận dạng hàng hóa do công ty tôi tự thiết kế có được không
+35|Mẫu nhận biết hàng hóa dùng cho lô hàng vận chuyển trên chuyến bay đúng không
+35|Lô hàng khi vận chuyển trên chuyến bay có cần dán nhãn nhận biết gì không
+35|Có chấp nhận các mẫu nhãn nhận dạng do khách hàng cung cấp hay không
+35|Khách hàng có thể tự thiết kế mẫu nhãn nhận dạng hàng hóa hay không
+35|Có phải mẫu nhận dạng hàng dùng để dán lên các lô hàng đúng không
+35|Hãng có thống nhất chung mẫu cho nhãn nhận dạng các lô hàng hay không
+35|Các mẫu nhận dạng hàng hóa có quy định chung gì không
+35|Tôi có gói hàng cần vận chuyển thì có cần dán nhãn nhận dạng gì không
+35|Gói hàng của tôi, tôi tự ghi dấu nhận hàng hàng hóa có được không
+35|Hãng có phát hành mẫu nhãn nhận biết hàng hóa hay không
