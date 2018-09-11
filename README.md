@@ -1,5 +1,5 @@
 # Dự án Chatbot VIETNAM-AIRLINES-Assistant
-Author: Nguyễn Thành Thủy
-Email: thuynt[@]due.edu.vn
-Trường Đại học Kinh tế, Đại học Đà Nẵng.
-Demo: https://www.hoctructuyen123.net/p/chatbot-demo.html
+<br>Author: Nguyễn Thành Thủy
+<br>Email: thuynt[@]due.edu.vn
+<br>Trường Đại học Kinh tế, Đại học Đà Nẵng.
+<br>Demo: https://www.hoctructuyen123.net/p/chatbot-demo.html
